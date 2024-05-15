@@ -77,3 +77,6 @@ Vedran Mandić.
 ## License 👀
 
 MIT License
+
+NSS Student learning C#.
+David Poole
